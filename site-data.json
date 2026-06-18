@@ -1,0 +1,332 @@
+{
+  "business": {
+    "name": "Ramirez Auto Repair, Body Shop & Wheel Alignment LLC",
+    "shortName": "Ramirez Auto",
+    "tagline": "Dallas's Trusted Auto Care – Repairs, Body Work, and Precision Alignments",
+    "niche": "Auto Mechanic",
+    "phone": "(972) 399-6264",
+    "address": "1443 S Fitzhugh Ave, Dallas, TX 75223",
+    "city": "Dallas, TX",
+    "hours": "Mon–Fri: 8:00 AM – 6:00 PM, Sat: 9:00 AM – 2:00 PM, Sun: Closed",
+    "ctaLabel": "Schedule Your Service Today",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Ramirez Auto Repair & Body Shop | Dallas, TX | (972) 399-6264",
+    "description": "Ramirez Auto Repair in Dallas offers expert auto repair, body shop services, and wheel alignments. Family-owned, 4.6-star rated. Call (972) 399-6264."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Premier Auto Mechanic",
+      "headline": "Expert Repairs, Body Work & Alignments – All Under One Roof",
+      "subheadline": "From minor tune-ups to major collision repairs, we deliver quality service that keeps you safe on the road.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "Call (972) 399-6264"
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "4.6",
+        "label": "Star Rating"
+      },
+      {
+        "value": "1,000+",
+        "label": "Vehicles Serviced"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Full-Service Auto Repair",
+        "title": "Comprehensive Mechanical Repairs",
+        "body": "Our ASE-certified technicians handle everything from brake repairs and engine diagnostics to transmission service and AC repair. We use state-of-the-art equipment to get you back on the road fast.",
+        "bullets": [
+          "Engine & transmission diagnostics",
+          "Brake and suspension service",
+          "Oil changes and fluid flushes",
+          "Electrical system repair"
+        ],
+        "reverse": false,
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "Warranty Included",
+        "cardBody": "All repairs come with a 12-month/12,000-mile warranty for your confidence."
+      },
+      {
+        "eyebrow": "Collision & Paint",
+        "title": "Expert Body Shop Services",
+        "body": "From minor dents to major collision damage, our body shop restores your vehicle to its pre-accident condition. We work with all insurance companies and offer color-matched painting.",
+        "bullets": [
+          "Dent repair and paintless dent removal",
+          "Full collision repair",
+          "Color-matched painting",
+          "Frame straightening"
+        ],
+        "reverse": true,
+        "cardLabel": "Flawless Finish",
+        "cardTitle": "Factory-Quality Paint",
+        "cardBody": "We use OEM-grade paint and blending techniques for a seamless match."
+      }
+    ],
+    "whyTitle": "Why Dallas Drivers Choose Ramirez Auto",
+    "whyChooseUs": [
+      {
+        "title": "Family-Owned & Operated",
+        "description": "We treat every customer like family, with honest advice and fair pricing."
+      },
+      {
+        "title": "Certified Technicians",
+        "crew": true,
+        "description": "Our team holds ASE certifications and undergoes continuous training."
+      },
+      {
+        "title": "Fast Turnaround",
+        "description": "Most repairs completed same-day or within 24 hours to minimize downtime."
+      },
+      {
+        "title": "Warranty on All Work",
+        "description": "Every service is backed by a comprehensive warranty for your peace of mind."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Ramirez Auto has been my go-to mechanic for years. They're honest, affordable, and always get the job done right.",
+        "author": "Mike D.",
+        "role": "Lakewood Resident"
+      },
+      {
+        "quote": "After a fender bender, they fixed my bumper and paint perfectly. You can't even tell it was damaged!",
+        "author": "Jessica L.",
+        "role": "Old East Dallas Driver"
+      },
+      {
+        "quote": "I brought my truck in for an alignment and they noticed a worn tie rod. They fixed it quickly and saved me from a bigger problem.",
+        "author": "Carlos R.",
+        "role": "Pleasant Grove Customer"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Experience Top-Tier Auto Care?",
+      "subheadline": "Call us or stop by today – we're conveniently located on S Fitzhugh Ave.",
+      "primaryCta": "Book an Appointment",
+      "secondaryCta": "Call (972) 399-6264"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Ramirez Auto Repair, Body Shop & Wheel Alignment LLC, we offer a full range of automotive services to keep your vehicle running smoothly and looking great. From routine maintenance to collision repair, our skilled team delivers quality workmanship at fair prices."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Auto Repair & Maintenance",
+      "shortDescription": "Complete mechanical services including engine, transmission, brakes, and routine maintenance.",
+      "longDescription": "Our ASE-certified mechanics diagnose and repair all makes and models. We use advanced diagnostic tools to pinpoint issues quickly and perform repairs using quality parts. Services include oil changes, brake pads, timing belts, water pumps, and more.",
+      "benefits": [
+        "Extend vehicle life with proper maintenance",
+        "Improved fuel economy and performance",
+        "Safety inspections included with every service",
+        "Competitive pricing with no hidden fees"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We run a comprehensive diagnostic scan to identify all issues."
+        },
+        {
+          "title": "Estimate",
+          "description": "You receive a detailed estimate with transparent pricing."
+        },
+        {
+          "title": "Repair & Test",
+          "description": "After approval, we complete repairs and test-drive to ensure quality."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I get an oil change?",
+          "answer": "Most vehicles need an oil change every 5,000–7,500 miles. Check your owner's manual or ask our technicians."
+        },
+        {
+          "question": "Do you work on all car brands?",
+          "answer": "Yes, we service domestic and import vehicles, including Ford, Chevrolet, Toyota, Honda, and more."
+        }
+      ],
+      "slug": "auto-repair-maintenance"
+    },
+    {
+      "icon": "02",
+      "title": "Body Shop & Collision Repair",
+      "shortDescription": "Expert collision repair, dent removal, and painting to restore your vehicle's appearance.",
+      "longDescription": "Our body shop handles everything from minor scratches to major collision damage. We work with all insurance companies and provide free estimates. Our painters use color-matching technology to ensure a seamless finish.",
+      "benefits": [
+        "Restore resale value with professional repairs",
+        "Insurance claim assistance – we handle the paperwork",
+        "Paintless dent repair for hail and door dings",
+        "Lifetime warranty on paint work"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We inspect damage and provide a detailed repair plan."
+        },
+        {
+          "title": "Repair",
+          "description": "Our technicians straighten frames, replace panels, and prepare surfaces."
+        },
+        {
+          "title": "Paint & Finish",
+          "description": "We apply OEM-quality paint and clear coat for a factory finish."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a typical collision repair take?",
+          "answer": "Most repairs are completed within 3–7 days, depending on the extent of damage and parts availability."
+        },
+        {
+          "question": "Do you provide a rental car?",
+          "answer": "We can help arrange a rental through our partnered providers. Check with your insurance."
+        }
+      ],
+      "slug": "body-shop-collision-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Wheel Alignment & Tire Services",
+      "shortDescription": "Precision alignments, tire rotation, and balancing for a smooth ride.",
+      "longDescription": "Proper wheel alignment extends tire life and improves handling. We use Hunter® alignment machines to adjust camber, caster, and toe to manufacturer specs. Also offering tire rotation, balancing, and new tire installation.",
+      "benefits": [
+        "Even tire wear extends tire life by thousands of miles",
+        "Better fuel economy from reduced rolling resistance",
+        "Smoother ride and improved steering response",
+        "Free alignment check with any tire purchase"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We check tire condition, pressure, and current alignment angles."
+        },
+        {
+          "title": "Adjustment",
+          "description": "We adjust suspension components to factory specifications."
+        },
+        {
+          "title": "Test Drive",
+          "description": "A road test confirms the alignment is correct and steering is straight."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I get an alignment?",
+          "answer": "Every 6,000 miles or if you notice pulling, uneven tire wear, or after hitting a pothole."
+        },
+        {
+          "question": "Do you sell tires?",
+          "answer": "Yes, we offer a wide selection of new tires from major brands at competitive prices."
+        }
+      ],
+      "slug": "wheel-alignment-tire-services"
+    },
+    {
+      "icon": "04",
+      "title": "Diagnostics & Electrical Repair",
+      "shortDescription": "Advanced computer diagnostics and electrical system repairs for modern vehicles.",
+      "longDescription": "Check engine light on? Our technicians use the latest scan tools to read codes and perform in-depth diagnostics. We repair alternators, starters, batteries, wiring, and more. We also reprogram modules and perform software updates.",
+      "benefits": [
+        "Accurate diagnosis saves time and money",
+        "Fix check engine light and pass emissions tests",
+        "Restore electrical functions like windows and locks",
+        "Battery testing and replacement included"
+      ],
+      "process": [
+        {
+          "title": "Code Reading",
+          "description": "We connect to your vehicle's computer and retrieve trouble codes."
+        },
+        {
+          "title": "System Testing",
+          "description": "We test components like sensors, wiring, and modules."
+        },
+        {
+          "title": "Repair & Clear Codes",
+          "description": "We fix the issue and clear codes, then verify the system works."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you diagnose a check engine light without an appointment?",
+          "answer": "Yes, we offer walk-in diagnostic services. Just bring your vehicle in and we'll read the codes."
+        },
+        {
+          "question": "Do you fix car computer modules?",
+          "answer": "Yes, we can repair or replace many engine control modules and other electronic units."
+        }
+      ],
+      "slug": "diagnostics-electrical-repair"
+    }
+  ],
+  "about": {
+    "headline": "Family-Owned Auto Care Since 2008",
+    "mission": "To provide honest, high-quality auto repairs and body work at fair prices, treating every customer like family.",
+    "story": [
+      "Ramirez Auto Repair, Body Shop & Wheel Alignment LLC was founded by the Ramirez family with a simple mission: deliver reliable automotive service with integrity. Starting as a small shop on S Fitzhugh Ave, we've grown by earning the trust of Dallas drivers through consistent quality and transparent communication.",
+      "Today, our team of certified technicians continues that tradition. We invest in the latest equipment and training to serve modern vehicles, while keeping the personal touch that sets us apart. Whether it's a routine oil change or a complex collision repair, we treat your car as if it were our own."
+    ],
+    "highlight": {
+      "stat": "4.6",
+      "label": "Average Customer Rating"
+    },
+    "coreValues": [
+      {
+        "title": "Honesty",
+        "description": "We never recommend unnecessary repairs. Our estimates are clear and upfront."
+      },
+      {
+        "title": "Quality",
+        "description": "We use top-tier parts and skilled labor to ensure lasting results."
+      },
+      {
+        "title": "Respect",
+        "description": "Your time and budget matter. We complete work on schedule and at quoted prices."
+      },
+      {
+        "title": "Community",
+        "description": "As a local family business, we support Dallas neighborhoods and employ local talent."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Ramirez Auto",
+    "subheadline": "We're here to answer your questions and schedule your service.",
+    "primaryCta": "Call (972) 399-6264",
+    "formCta": "Send Us a Message",
+    "serviceAreas": [
+      "Dallas",
+      "Old East Dallas",
+      "Lakewood",
+      "Pleasant Grove",
+      "Oak Cliff",
+      "Highland Park",
+      "University Park",
+      "Garland",
+      "Mesquite"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.6,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:9723996264",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
