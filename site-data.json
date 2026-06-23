@@ -1,40 +1,40 @@
 {
   "business": {
     "name": "Ramirez Auto Repair, Body Shop & Wheel Alignment LLC",
-    "shortName": "Ramirez Auto Repair",
-    "tagline": "Expert Auto Repair, Body Work & Wheel Alignment in Dallas, TX",
+    "shortName": "Ramirez Auto",
+    "tagline": "Precision auto repair and body work you can trust in Dallas.",
     "niche": "Auto Mechanic",
     "phone": "(972) 399-6264",
     "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri: 8am-6pm, Sat: 9am-3pm, Sun: Closed",
-    "ctaLabel": "Schedule Your Service Today",
+    "hours": "Mon-Fri 7:30 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
+    "ctaLabel": "Schedule Your Appointment Today",
     "headerCta": "Call Now"
   },
   "seo": {
     "title": "Ramirez Auto Repair, Body Shop & Wheel Alignment | Dallas, TX",
-    "description": "Ramirez Auto Repair in Dallas offers expert auto repair, body shop services, and wheel alignment. Certified mechanics, honest pricing, and fast turnaround. Call (972) 399-6264."
+    "description": "Trusted auto mechanic in Dallas offering expert repairs, body shop services, and wheel alignment. Call (972) 399-6264 for reliable service."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Trusted Auto Repair & Body Shop",
-      "headline": "Precision Auto Repair, Body Work & Wheel Alignment You Can Rely On",
-      "subheadline": "From minor tune-ups to major collision repair, our certified technicians deliver quality workmanship and honest service to keep you safe on the road.",
-      "primaryCta": "Schedule Appointment",
-      "secondaryCta": "Call (972) 399-6264"
+      "eyebrow": "Dallas's Trusted Auto Care Experts",
+      "headline": "Expert Auto Repair, Body Work & Wheel Alignment",
+      "subheadline": "From minor tune-ups to major collision repair, we deliver precision service that keeps you safe on the road.",
+      "primaryCta": "Book Now",
+      "secondaryCta": "Learn More"
     },
     "stats": [
       {
         "value": "15+",
-        "label": "Years of Experience"
+        "label": "Years Experience"
       },
       {
-        "value": "1,000+",
-        "label": "Vehicles Repaired"
+        "value": "2,000+",
+        "label": "Vehicles Serviced"
       },
       {
-        "value": "4.9",
-        "label": "Average Customer Rating"
+        "value": "4.8",
+        "label": "Average Rating"
       },
       {
         "value": "100%",
@@ -45,114 +45,114 @@
       {
         "eyebrow": "Full-Service Auto Repair",
         "title": "Comprehensive Mechanical & Diagnostic Services",
-        "body": "Whether you need routine maintenance or complex engine repairs, our ASE-certified mechanics use state-of-the-art diagnostic equipment to get the job done right the first time. We service all makes and models with transparent pricing and a focus on longevity.",
+        "body": "Our ASE-certified technicians use advanced diagnostics to quickly identify and fix issues. From engine repairs to brake service, we keep your car running smoothly.",
         "bullets": [
-          "Engine & transmission diagnostics and repair",
-          "Brake, suspension, and exhaust services",
-          "Oil changes, fluid flushes, and tune-ups",
-          "AC repair and electrical system troubleshooting"
+          "Engine and transmission diagnostics",
+          "Brake repair and replacement",
+          "A/C and heating system service",
+          "Scheduled maintenance and tune-ups"
         ],
         "reverse": false,
-        "cardLabel": "Trusted Expertise",
-        "cardTitle": "Factory-Level Diagnostics",
-        "cardBody": "Our advanced scanners pinpoint issues quickly, saving you time and money on unnecessary repairs."
+        "cardLabel": "Precision",
+        "cardTitle": "State-of-the-Art Diagnostics",
+        "cardBody": "We use the latest scan tools to pinpoint problems fast, saving you time and money."
       },
       {
-        "eyebrow": "Collision & Paint",
-        "title": "Expert Body Shop & Paint Services",
-        "body": "From minor dents and scratches to major collision damage, our body shop restores your vehicle to its pre-accident condition. We handle insurance claims and provide color-matched painting for a seamless finish.",
+        "eyebrow": "Collision & Body Shop",
+        "title": "Expert Body Repairs & Paint Matching",
+        "body": "Our body shop restores your vehicle to pre-accident condition with factory-quality paint and precise panel alignment. We handle everything from minor dents to major collision damage.",
         "bullets": [
-          "Collision repair and frame straightening",
-          "Dent removal and paintless dent repair",
-          "Full and partial paint jobs with color matching",
-          "Insurance claim assistance and rental coordination"
+          "Dent and scratch repair",
+          "Full collision repair",
+          "Color-matched painting",
+          "Frame straightening"
         ],
         "reverse": true,
-        "cardLabel": "Flawless Finish",
-        "cardTitle": "Color-Matched Paint",
-        "cardBody": "We use premium paint systems to ensure your car looks like new, with a durable finish that lasts."
+        "cardLabel": "Quality",
+        "cardTitle": "Factory-Finish Results",
+        "cardBody": "We use premium materials and techniques to ensure your car looks like new."
       }
     ],
-    "whyTitle": "Why Choose Ramirez Auto Repair?",
+    "whyTitle": "Why Choose Ramirez Auto?",
     "whyChooseUs": [
       {
         "title": "Certified Technicians",
-        "description": "Our team holds ASE certifications and undergoes continuous training to stay current with the latest automotive technology."
+        "description": "Our team holds ASE certifications and undergoes continuous training to stay ahead of automotive technology."
       },
       {
-        "title": "Honest, Upfront Pricing",
-        "description": "We provide detailed estimates before any work begins, with no hidden fees or unnecessary repairs."
+        "title": "Honest Pricing",
+        "description": "We provide transparent estimates with no hidden fees, so you know exactly what you're paying for."
       },
       {
         "title": "Fast Turnaround",
-        "description": "Most repairs are completed within 24 hours, and we offer express service for minor maintenance."
+        "description": "Most repairs are completed within 24 hours, and we offer loaner vehicles to keep you moving."
       },
       {
-        "title": "Warranty on All Repairs",
-        "description": "Every service we perform is backed by a comprehensive warranty for your peace of mind."
+        "title": "Warranty on All Work",
+        "description": "Every repair and service is backed by a comprehensive warranty for your peace of mind."
       }
     ],
     "testimonials": [
       {
-        "quote": "Ramirez Auto Repair did an amazing job on my truck's transmission. They explained everything clearly and had it done in two days. Highly recommend!",
-        "author": "Mike R.",
-        "role": "Oak Lawn Resident"
+        "quote": "Ramirez Auto did an amazing job on my car's engine repair. They explained everything clearly and had it done ahead of schedule.",
+        "author": "Mike D.",
+        "role": "Oak Lawn resident"
       },
       {
-        "quote": "I brought my car in after a fender bender, and the body work was flawless. The paint matched perfectly and they handled the insurance paperwork. Great service!",
-        "author": "Jennifer L.",
-        "role": "Lakewood Homeowner"
+        "quote": "I brought my SUV in for a dent repair and the paint match was perfect. You can't even tell there was damage.",
+        "author": "Linda M.",
+        "role": "Lakewood homeowner"
       },
       {
-        "quote": "Fair prices, honest mechanics, and quick work. I've been coming here for years and won't go anywhere else.",
-        "author": "Carlos M.",
-        "role": "Pleasant Grove Resident"
+        "quote": "Fair prices, honest work. I've been coming here for years and they never try to upsell me.",
+        "author": "Carlos R.",
+        "role": "Pleasant Grove driver"
       }
     ],
     "cta": {
       "headline": "Ready to Get Your Car Back on the Road?",
-      "subheadline": "Call us or schedule online for a free estimate. We'll take care of the rest.",
-      "primaryCta": "Book Now",
-      "secondaryCta": "Call (972) 399-6264"
+      "subheadline": "Call us or book online for fast, reliable service.",
+      "primaryCta": "Call (972) 399-6264",
+      "secondaryCta": "Request Appointment"
     }
   },
   "servicesPage": {
-    "intro": "At Ramirez Auto Repair, we offer a full range of automotive services to keep your vehicle running smoothly and looking great. From routine maintenance to major collision repair, our skilled technicians deliver quality work at fair prices."
+    "intro": "At Ramirez Auto Repair, Body Shop & Wheel Alignment LLC, we offer a full range of automotive services to keep your vehicle safe, reliable, and looking its best. From routine maintenance to major collision repair, our skilled technicians use top-tier equipment and genuine parts to deliver lasting results."
   },
   "services": [
     {
       "icon": "01",
       "title": "Auto Repair & Maintenance",
-      "shortDescription": "Comprehensive mechanical services including engine, transmission, brakes, and routine maintenance.",
-      "longDescription": "Our ASE-certified mechanics handle everything from oil changes to complete engine overhauls. We use only quality parts and follow manufacturer specifications to ensure your vehicle performs reliably. Services include diagnostics, brake repair, suspension work, cooling system service, and more.",
+      "shortDescription": "Complete mechanical services including engine, transmission, brake, and electrical repairs.",
+      "longDescription": "Our auto repair services cover every system in your vehicle. Using advanced diagnostic tools, we quickly identify issues and perform precise repairs. Whether it's a routine oil change or a complex engine overhaul, we ensure your car runs at peak performance.",
       "benefits": [
-        "Extends vehicle life and improves performance",
-        "Prevents costly breakdowns with regular maintenance",
-        "Uses factory-recommended parts and fluids",
-        "Backed by a service warranty"
+        "Extends vehicle lifespan and reliability",
+        "Prevents costly breakdowns with early detection",
+        "Improves fuel efficiency and performance",
+        "Backed by a comprehensive warranty"
       ],
       "process": [
         {
-          "title": "1. Comprehensive Inspection",
-          "description": "We perform a multi-point inspection to identify issues and assess the overall health of your vehicle."
+          "title": "Diagnostic Assessment",
+          "description": "We connect your vehicle to our diagnostic system to read error codes and perform a thorough inspection."
         },
         {
-          "title": "2. Detailed Estimate",
-          "description": "You receive a clear, itemized estimate with no surprises. We explain all recommended repairs."
+          "title": "Detailed Estimate",
+          "description": "We provide a written estimate with all costs itemized, including parts and labor, before any work begins."
         },
         {
-          "title": "3. Quality Repair & Testing",
-          "description": "Our technicians complete the work efficiently, followed by a road test to ensure everything is perfect."
+          "title": "Expert Repair & Testing",
+          "description": "Our technicians perform the repair using OEM or equivalent parts, then test the system to ensure everything is working correctly."
         }
       ],
       "faqs": [
         {
           "question": "How often should I get an oil change?",
-          "answer": "Most vehicles need an oil change every 3,000-5,000 miles, but check your owner's manual for specific intervals. We recommend synthetic oil for newer engines."
+          "answer": "Most modern vehicles need an oil change every 5,000 to 7,500 miles, but check your owner's manual for specific recommendations."
         },
         {
-          "question": "Do you work on all car makes and models?",
-          "answer": "Yes, we service all domestic and import vehicles, including trucks and SUVs."
+          "question": "Do you offer a warranty on repairs?",
+          "answer": "Yes, we offer a 12-month/12,000-mile warranty on all parts and labor for your peace of mind."
         }
       ],
       "slug": "auto-repair-maintenance"
@@ -160,36 +160,36 @@
     {
       "icon": "02",
       "title": "Body Shop & Collision Repair",
-      "shortDescription": "Professional collision repair, dent removal, and custom paint jobs to restore your vehicle's appearance.",
-      "longDescription": "Our body shop is equipped to handle everything from minor scratches to major collision damage. We use computer-aided measuring systems for precise frame alignment and factory-matched paint for a seamless finish. We also assist with insurance claims and provide rental car coordination.",
+      "shortDescription": "Professional dent repair, paint matching, and full collision restoration.",
+      "longDescription": "Our body shop handles everything from minor scratches to major collision damage. We use computer-guided paint matching and precision tools to restore your vehicle's appearance and structural integrity. Insurance claims are welcome.",
       "benefits": [
-        "Restores vehicle safety and structural integrity",
-        "Flawless color-matched paint that lasts",
-        "Hassle-free insurance claim processing",
-        "Fast turnaround to get you back on the road"
+        "Restores factory appearance and value",
+        "Prevents rust and further damage",
+        "Seamless paint matching for invisible repairs",
+        "Direct insurance billing available"
       ],
       "process": [
         {
-          "title": "1. Damage Assessment",
-          "description": "We thoroughly inspect the damage and provide a detailed repair plan and estimate."
+          "title": "Damage Assessment",
+          "description": "We evaluate the extent of damage and provide a detailed repair plan and estimate."
         },
         {
-          "title": "2. Precision Repair & Painting",
-          "description": "Our technicians repair dents, align panels, and apply multiple coats of paint with clear coat protection."
+          "title": "Body & Frame Repair",
+          "description": "We straighten panels, repair dents, and align the frame to factory specifications."
         },
         {
-          "title": "3. Final Quality Check",
-          "description": "We inspect the finish and ensure all panels fit perfectly before returning your vehicle."
+          "title": "Painting & Finishing",
+          "description": "Our technicians apply primer, color-matched paint, and clear coat, then polish to a showroom finish."
         }
       ],
       "faqs": [
         {
-          "question": "Will my insurance cover the repair?",
-          "answer": "We work with all major insurance companies and can help you file a claim. Most collision repairs are covered under comprehensive or collision coverage."
+          "question": "How long does a typical collision repair take?",
+          "answer": "Minor repairs can be done in a day, while major collision work may take 1-2 weeks depending on parts availability."
         },
         {
-          "question": "How long does a typical body repair take?",
-          "answer": "Minor repairs can be done in a day, while major collision work may take a week or more. We'll give you a timeline upfront."
+          "question": "Do you work with insurance companies?",
+          "answer": "Yes, we work with all major insurance providers and can help you file a claim."
         }
       ],
       "slug": "body-shop-collision-repair"
@@ -197,84 +197,84 @@
     {
       "icon": "03",
       "title": "Wheel Alignment & Tire Services",
-      "shortDescription": "Precision wheel alignment, tire balancing, and tire replacement to improve handling and tire life.",
-      "longDescription": "Proper wheel alignment is crucial for even tire wear, stable handling, and fuel efficiency. We use state-of-the-art alignment equipment to adjust camber, caster, and toe angles to manufacturer specifications. We also offer tire rotation, balancing, and new tire installation.",
+      "shortDescription": "Precision wheel alignment, tire rotation, and balancing for a smooth ride.",
+      "longDescription": "Proper wheel alignment is critical for even tire wear, fuel efficiency, and handling. We use state-of-the-art alignment machines to adjust camber, caster, and toe angles to manufacturer specifications. We also offer tire rotation, balancing, and new tire installation.",
       "benefits": [
-        "Extends tire life and improves fuel economy",
-        "Enhances steering response and vehicle stability",
-        "Prevents vibration and uneven wear",
-        "Includes a free alignment check with tire purchase"
+        "Extends tire life and improves safety",
+        "Enhances steering response and stability",
+        "Saves fuel by reducing rolling resistance",
+        "Prevents vibration and uneven wear"
       ],
       "process": [
         {
-          "title": "1. Tire Inspection",
-          "description": "We check tire condition, pressure, and tread depth to determine if rotation or replacement is needed."
+          "title": "Initial Inspection",
+          "description": "We check tire condition, pressure, and suspension components for wear."
         },
         {
-          "title": "2. Alignment Setup",
-          "description": "Your vehicle is mounted on our alignment rack, and we adjust angles to factory specs."
+          "title": "Alignment Adjustment",
+          "description": "Using a computerized alignment rack, we adjust angles to exact specifications."
         },
         {
-          "title": "3. Test Drive & Verification",
-          "description": "We take a test drive to confirm the alignment is correct and the steering feels straight."
+          "title": "Test Drive & Verification",
+          "description": "We take a test drive to ensure the vehicle tracks straight and handles properly."
         }
       ],
       "faqs": [
         {
-          "question": "How do I know if I need an alignment?",
-          "answer": "Signs include uneven tire wear, your car pulling to one side, or a crooked steering wheel when driving straight."
+          "question": "How do I know if my car needs an alignment?",
+          "answer": "Signs include pulling to one side, uneven tire wear, a crooked steering wheel, or vibration while driving."
         },
         {
           "question": "How often should I get an alignment?",
-          "answer": "It's recommended every 10,000-12,000 miles or whenever you install new tires."
+          "answer": "Every 10,000 miles or whenever you notice handling issues, after hitting a pothole, or after suspension repairs."
         }
       ],
       "slug": "wheel-alignment-tire-services"
     },
     {
       "icon": "04",
-      "title": "Diagnostics & Electrical Systems",
-      "shortDescription": "Advanced computer diagnostics and electrical repair for check engine lights, battery, alternator, and more.",
-      "longDescription": "Modern vehicles rely on complex electrical systems. Our diagnostic tools can quickly identify issues with the engine, transmission, ABS, airbags, and other electronic modules. We repair or replace alternators, starters, batteries, sensors, and wiring harnesses.",
+      "title": "Diagnostic & Electrical Services",
+      "shortDescription": "Advanced computer diagnostics and electrical system repair.",
+      "longDescription": "Modern vehicles rely on complex electrical systems. Our technicians are trained to diagnose and repair issues with batteries, alternators, starters, sensors, wiring, and onboard computers. We use OEM-level scan tools to read and interpret fault codes accurately.",
       "benefits": [
-        "Accurately identifies problems without guesswork",
-        "Prevents unnecessary part replacements",
-        "Restores vehicle performance and safety features",
-        "Includes a detailed report of findings"
+        "Quickly identifies the root cause of warning lights",
+        "Prevents electrical failures that leave you stranded",
+        "Restores all electronic features and performance",
+        "Compatible with all makes and models"
       ],
       "process": [
         {
-          "title": "1. Scan & Retrieve Codes",
-          "description": "We connect our diagnostic scanner to read error codes from the vehicle's computer."
+          "title": "Code Reading & Analysis",
+          "description": "We connect a professional scan tool to read diagnostic trouble codes and live data."
         },
         {
-          "title": "2. Interpret & Inspect",
-          "description": "Our technician interprets the codes and performs visual inspections to pinpoint the root cause."
+          "title": "System Testing",
+          "description": "We test individual components like the battery, alternator, and sensors to isolate the fault."
         },
         {
-          "title": "3. Repair & Clear Codes",
-          "description": "We perform the necessary repair and clear the codes, then test to ensure the issue is resolved."
+          "title": "Repair & Reset",
+          "description": "We replace faulty parts and clear codes, then test the system to confirm the fix."
         }
       ],
       "faqs": [
         {
-          "question": "Why is my check engine light on?",
-          "answer": "It could be something minor like a loose gas cap or something more serious like an oxygen sensor failure. We can quickly diagnose the issue."
+          "question": "What does the check engine light mean?",
+          "answer": "It can indicate anything from a loose gas cap to a serious engine problem. We recommend a diagnostic scan to determine the cause."
         },
         {
-          "question": "Do you repair hybrid or electric vehicles?",
-          "answer": "Yes, our technicians are trained to work on hybrid and electric vehicle systems, including battery diagnostics."
+          "question": "Can you fix electrical issues on luxury cars?",
+          "answer": "Yes, we have the tools and training to work on all makes and models, including luxury and imported vehicles."
         }
       ],
-      "slug": "diagnostics-electrical-systems"
+      "slug": "diagnostic-electrical-services"
     }
   ],
   "about": {
-    "headline": "Dallas's Trusted Family-Owned Auto Repair Shop",
-    "mission": "To provide honest, high-quality auto repair and body shop services that keep our community safe and moving. We treat every customer like family and every car like our own.",
+    "headline": "Dallas's Go-To Auto Care Team",
+    "mission": "To provide honest, high-quality automotive repair and body work that keeps our community safe and mobile.",
     "story": [
-      "Ramirez Auto Repair was founded over 15 years ago with a simple mission: deliver expert automotive service with integrity. What started as a small two-bay shop has grown into a full-service facility serving Dallas and the surrounding areas. Our founder, a master mechanic with decades of experience, built the business on the belief that customers deserve transparent communication and fair pricing.",
-      "Today, we continue that tradition with a team of ASE-certified technicians who share a passion for cars and a commitment to excellence. We invest in the latest diagnostic equipment and training to ensure we can handle any repair, from a simple oil change to a complex engine rebuild. Our loyal customers return because they trust us to be honest, efficient, and skilled."
+      "Ramirez Auto Repair, Body Shop & Wheel Alignment LLC was founded with a simple mission: deliver expert automotive care with integrity. What started as a small garage has grown into a full-service shop trusted by Dallas drivers for over 15 years. Our founder, a master technician with decades of experience, built the business on the belief that every customer deserves transparent communication, fair pricing, and work that lasts.",
+      "Today, our team of ASE-certified mechanics and body specialists serves thousands of vehicles each year. We invest in the latest diagnostic equipment and training to stay ahead of evolving automotive technology. Whether you need a quick oil change or a complete engine rebuild, we treat every car as if it were our own. We're proud to be a family-owned business that puts people first."
     ],
     "highlight": {
       "stat": "15+",
@@ -283,25 +283,25 @@
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We never recommend unnecessary repairs. Our estimates are transparent, and we stand by our work."
+        "description": "We always recommend only necessary repairs and provide clear, upfront pricing."
       },
       {
         "title": "Quality",
-        "description": "We use premium parts and follow manufacturer specifications to ensure lasting results."
+        "description": "We use premium parts and follow manufacturer specifications for every job."
       },
       {
         "title": "Customer Focus",
-        "description": "Your satisfaction is our priority. We communicate clearly and respect your time and budget."
+        "description": "Your satisfaction is our priority — we listen, explain, and deliver on our promises."
       },
       {
         "title": "Continuous Improvement",
-        "description": "We stay updated with the latest automotive technology and training to serve you better."
+        "description": "We regularly train on new technologies and techniques to serve you better."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch with Ramirez Auto Repair",
-    "subheadline": "Ready to schedule service or have a question? Call us or fill out the form below, and we'll get back to you promptly.",
+    "headline": "Get in Touch with Ramirez Auto",
+    "subheadline": "We're here to answer your questions and schedule your appointment.",
     "primaryCta": "Call (972) 399-6264",
     "formCta": "Send Message",
     "serviceAreas": [
